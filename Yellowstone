@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Springs": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.68963766098022,
+          44.98593143277443
+        ]
+      }
+    }
+  ]
+}
